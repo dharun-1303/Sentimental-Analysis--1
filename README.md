@@ -1,4 +1,5 @@
 # Sentiment Analysis App
+App link -- https://sentimental-analysis-reviews.streamlit.app/
 
 This is a Streamlit app that performs sentiment analysis on textual data. It utilizes the TextBlob library to evaluate the sentiment of a given text as Positive, Negative, or Neutral. Users can input text manually or upload a CSV file containing text data for bulk analysis.
 
